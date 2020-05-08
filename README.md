@@ -61,5 +61,3 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
 - Python -- Miniconda, `virtualenv`, `numpy`, `scipy`,`matplotlib`,`jupyter`, `ipynb-quicklook`
 - `node`, `go`
-
-zshrc, theme

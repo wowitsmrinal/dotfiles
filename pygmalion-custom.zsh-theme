@@ -1,0 +1,1 @@
+/Users/mrinalmohit/.oh-my-zsh/themes/pygmalion-custom.zsh-theme

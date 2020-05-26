@@ -25,7 +25,6 @@
 - Contexts (Sidebar &#8594; Show sidebar on no display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
 - Amphetamine
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
-- Alfred
 - BetterTouchTool (Pause)
 - Spotify (Streaming Quality _Very High_, disable _Friend Activity_)
 - VLC

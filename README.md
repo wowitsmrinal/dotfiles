@@ -58,5 +58,5 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One, Bracket Pair Colorizer
 	- Python, ESLint, Prettier, C/C++, Java Extension Pack, Go
 	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
-- Python -- Miniconda, `virtualenv`, `numpy`, `scipy`,`matplotlib`,`jupyter` (+ [theme](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme)), `ipynb-quicklook`
+- Python -- Miniconda, `virtualenv`, `numpy`, `scipy`,`matplotlib`,`jupyter` (+ Language Server, Hinterland), `ipynb-quicklook`
 - `node`, `go`

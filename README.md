@@ -58,5 +58,6 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One, Bracket Pair Colorizer
 	- Python, ESLint, Prettier, C/C++, Java Extension Pack, Go
 	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
-- Python -- Miniconda, `virtualenv`, `numpy`, `scipy`,`matplotlib`,`jupyter` (+ Language Server, Hinterland), `ipynb-quicklook`
+- Python -- Miniconda, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
+- Jupyter -- `ipynb-quicklook`, `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown)
 - `node`, `go`

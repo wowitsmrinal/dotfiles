@@ -61,3 +61,4 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 - Python -- Miniconda, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
 - Jupyter -- `ipynb-quicklook`, `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown)
 - `node`, `go`
+- [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ)

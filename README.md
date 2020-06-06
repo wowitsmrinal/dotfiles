@@ -42,7 +42,7 @@ brew tap homebrew/cask
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
-- FiraCode
+- [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina/complete)
 - iTerm2
 	- Appearance &#8594; Theme &#8594; Minimal, Exclude from Dock, Window &#8594; Hide scroll bars
 	- Profiles/Color &#8594; Atom One Dark
@@ -61,4 +61,4 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 - Python -- Miniconda, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
 - Jupyter -- `ipynb-quicklook`, `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown)
 - `node`, `go`
-- [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ)
+- `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ)

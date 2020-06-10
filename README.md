@@ -17,6 +17,7 @@
 - Finder &#8594; show user folder, show filename extensions
 - Menu Bar &#8594; Battery to Percentage
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
+- Enable Always Open: `defaults write com.google.Chrome ExternalProtocolDialogShowAlwaysOpenCheckbox -bool true`
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar)

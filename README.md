@@ -63,3 +63,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 - Jupyter -- `ipynb-quicklook`, `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), [Theme](https://github.com/dunovank/jupyter-themes), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown)
 - `node`, `go`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ)
+
+## Remote Server
+- Eternal Terminal
+- Byobu

@@ -13,7 +13,6 @@
 - Displays &#8594; Disable menu bar, Turn on Night Shift
 - Date & Time &#8594; Clock &#8594; Show date
 - Language & Region &#8594; Celsius
-- Spotlight  &#8594; Disable shortcut
 - Finder &#8594; show user folder, show filename extensions
 - Menu Bar &#8594; Battery to Percentage
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
@@ -21,14 +20,15 @@
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar)
+- AdGuard
 - HyperDock (change shortcut to _Cmd+Opt_)
 - Path Finder (Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar)
-- Contexts (Sidebar &#8594; Show sidebar on no display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
-- Amphetamine
+- Contexts (Launch at Login, Sidebar &#8594; Show sidebar on no display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
+- Amphetamine (Launch and Start Seesion at Login)
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - BetterTouchTool (Pause)
 - Spotify (Streaming Quality _Very High_, disable _Friend Activity_)
-- VLC
+- VLC (`alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'`)
 ### Suites
 - iMovie
 - Word, Excel, PowerPoint, OneNote

@@ -34,7 +34,7 @@
 - Word, Excel, PowerPoint, OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
 ### Others
-- Backup & Sync, Disk Inventory X, Folx Go, MPT, The Unarchiver, Logitech Options
+- Backup & Sync, Disk Inventory X, Folx Go, MPT, The Unarchiver, Logitech Options, External Keyboard Modifier
 ## Development
 ```
 xcode-select --install

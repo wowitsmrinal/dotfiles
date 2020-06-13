@@ -9,7 +9,7 @@
 - Dock &#8594; _Left, small, scale effect,_ uncheck _Show recent applications_. Remove unnecessary icons. Pin Desktop/Downloads in Folder mode
 - Keyboard &#8594; _Key Repeat Fast, Delay Until Repeat Short_, Modifier Keys &#8594; Caps Lock to Escape, Input Source &#8594; Disable menu bar
 - Apple ID &#8594; Photo, Uncheck _Mail, Reminders, Safari, Siri, News, Stocks, Home_
-- Internet Accounts &#8594; _Google Contacts, Calendars, Notes_
+- Internet Accounts &#8594; _Google Contacts, Calendars_
 - Displays &#8594; Disable menu bar, Turn on Night Shift
 - Date & Time &#8594; Clock &#8594; Show date
 - Language & Region &#8594; Celsius

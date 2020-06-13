@@ -36,13 +36,13 @@
 ### Others
 - Backup & Sync, Disk Inventory X, Folx Go, MPT, The Unarchiver, Logitech Options, External Keyboard Modifier
 ## Development
-Xcode
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew tap homebrew/cask
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
+- Xcode
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina/complete)
 - iTerm2
 	- Appearance &#8594; Theme &#8594; Minimal, Exclude from Dock, Window &#8594; Hide scroll bars

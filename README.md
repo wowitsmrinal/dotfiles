@@ -50,7 +50,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	- Profiles/Terminal &#8594; Unlimited Scrollback
 	- Profiles/Keys &#8594; Hotkey &#8594; Opt+Space / Pin / Disable animation
 	- Profiles/Advanced &#8594; Hide from Menu Bar
-- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `et`, `tree`, `fzf`,`ripgrep`,  `vim`, Ultimate `.vimrc`
+- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `tree`, `fzf`,`ripgrep` 
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK
 - VSCode + Extensions:
@@ -60,7 +60,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 - Python -- Miniconda, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
 - Jupyter -- `ipynb-quicklook`, `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), [Theme](https://github.com/dunovank/jupyter-themes), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown)
 - `node`, `go`
-- `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ)
+- `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), `.vimrc`
 
 ## Remote Server
 - Eternal Terminal

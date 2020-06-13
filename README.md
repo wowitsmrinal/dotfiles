@@ -46,11 +46,9 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina/complete)
 - iTerm2
 	- Appearance &#8594; Theme &#8594; Minimal, Exclude from Dock, Window &#8594; Hide scroll bars
-	- Profiles/Color &#8594; Atom One Dark
 	- Profiles/Text &#8594; Fira Code Retina
-	- Profiles/Window &#8594; Transparency & Blur
 	- Profiles/Terminal &#8594; Unlimited Scrollback
-	- Profiles/Keys &#8594; Hotkey &#8594; Cmd+Space / Pin / Disable animation, Add escape Sequences to navigate
+	- Profiles/Keys &#8594; Hotkey &#8594; Opt+Space / Pin / Disable animation
 	- Profiles/Advanced &#8594; Hide from Menu Bar
 - `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `et`, `tree`, `fzf`,`ripgrep`,  `vim`, Ultimate `.vimrc`
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`

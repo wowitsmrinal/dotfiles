@@ -36,8 +36,8 @@
 ### Others
 - Backup & Sync, Disk Inventory X, Folx Go, MPT, The Unarchiver, Logitech Options, External Keyboard Modifier
 ## Development
+Xcode
 ```
-xcode-select --install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew tap homebrew/cask
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \

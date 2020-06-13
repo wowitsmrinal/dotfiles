@@ -19,3 +19,6 @@ export PATH="/opt/miniconda3/bin:$PATH"
 function f() { find . -iname "*$1*" ${@:2} }
 function r() { grep "$1" ${@:2} -R . }
 function mkcd() { mkdir -p "$@" && cd "$_"; }
+
+# Aliases
+alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'

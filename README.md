@@ -54,11 +54,11 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK
 - VSCode + Extensions:
-	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One, Bracket Pair Colorizer
+	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One, Bracket Pair Colorizer 2
 	- Python, ESLint, Prettier, C/C++, Java Extension Pack, Go
 	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
 - Python -- Miniconda, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
-- Jupyter -- `ipynb-quicklook`, `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), [Theme](https://github.com/dunovank/jupyter-themes), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown)
+- Jupyter -- `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown), `jupyter-notebook-viewer`
 - `node`, `go`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), `.vimrc`
 

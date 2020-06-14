@@ -2,7 +2,7 @@
 export ZSH="${HOME}/.oh-my-zsh"
 ZSH_THEME="pygmalion-custom"
 DISABLE_UPDATE_PROMPT="true"
-plugins=(sudo git colored-man-pages colorize pip virtualenv zsh-syntax-highlighting zsh-autosuggestions dircycle)
+plugins=(sudo git colored-man-pages colorize pip virtualenv zsh-autosuggestions dircycle zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 export EDITOR='vim'
 autoload -Uz compinit

@@ -22,4 +22,4 @@ function mkcd() { mkdir -p "$@" && cd "$_"; }
 
 # Aliases
 alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'
-alias nvim='vim'
+alias vim='nvim'

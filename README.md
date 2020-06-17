@@ -50,7 +50,8 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	- Profiles/Terminal &#8594; Unlimited Scrollback
 	- Profiles/Keys &#8594; Hotkey &#8594; Opt+Space / Pin / Disable animation
 	- Profiles/Advanced &#8594; Hide from Menu Bar
-- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `tree`, `fzf`,`ripgrep` 
+- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `tree`, `ripgrep` 
+- `fzf`, `/usr/local/opt/fzf/install`
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK
 - VSCode + Extensions:

@@ -29,6 +29,8 @@
 - BetterTouchTool (Pause)
 - Spotify (Streaming Quality _Very High_, disable _Friend Activity_)
 - VLC (`alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'`)
+- Messenger
+- f.lux
 ### Suites
 - iMovie
 - Word, Excel, PowerPoint, OneNote
@@ -42,6 +44,7 @@ brew tap homebrew/cask
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
 	qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
+- Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html))
 - Xcode
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina/complete)
 - iTerm2

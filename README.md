@@ -31,6 +31,7 @@
 - VLC (`alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'`)
 - Messenger
 - f.lux
+- Pastebot
 ### Suites
 - iMovie
 - Word, Excel, PowerPoint, OneNote

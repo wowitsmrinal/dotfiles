@@ -37,13 +37,12 @@
 - Word, Excel, PowerPoint, OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
 ### Others
-- Backup & Sync, Disk Inventory X, Folx Go, MPT, The Unarchiver, Logitech Options, External Keyboard Modifier
+- Backup & Sync, The Unarchiver, Logitech Options, External Keyboard Modifier
 ## Development
-```
+```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew tap homebrew/cask
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json \
-	qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
 - Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html))
 - Xcode

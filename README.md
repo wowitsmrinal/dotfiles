@@ -10,13 +10,18 @@
 - Keyboard &#8594; _Key Repeat Fast, Delay Until Repeat Short_, Modifier Keys &#8594; Caps Lock to Escape, Input Source &#8594; Disable menu bar
 - Apple ID &#8594; Photo, Uncheck _Mail, Reminders, Safari, Siri, News, Stocks, Home_
 - Internet Accounts &#8594; _Google Contacts, Calendars_
-- Displays &#8594; Disable menu bar, Turn on Night Shift
+- Displays &#8594; Disable menu bar
 - Date & Time &#8594; Clock &#8594; Show date
 - Language & Region &#8594; Celsius
 - Finder &#8594; show user folder, show filename extensions
 - Menu Bar &#8594; Battery to Percentage
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 - Enable Always Open: `defaults write com.google.Chrome ExternalProtocolDialogShowAlwaysOpenCheckbox -bool true`
+- Bluetooth Quality: `defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 80`
+- Avoid creating .DS_Store files on network or USB volumes
+`defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true; defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true`
+- Disable disk image verification
+`defaults write com.apple.frameworks.diskimages skip-verify -bool true; defaults write com.apple.frameworks.diskimages skip-verify-locked -bool true; defaults write com.apple.frameworks.diskimages skip-verify-remote -bool true`
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar)

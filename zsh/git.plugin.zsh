@@ -207,7 +207,7 @@ alias gmtvim='git mergetool --no-prompt --tool=vimdiff'
 alias gmum='git merge upstream/$(git_main_branch)'
 alias gma='git merge --abort'
 
-alias gp='git push'
+alias gp='git push -u origin HEAD'
 alias gpd='git push --dry-run'
 alias gpf='git push --force-with-lease'
 alias gpf!='git push --force'

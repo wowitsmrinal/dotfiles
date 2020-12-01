@@ -22,6 +22,7 @@
 `defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true; defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true`
 - Disable disk image verification
 `defaults write com.apple.frameworks.diskimages skip-verify -bool true; defaults write com.apple.frameworks.diskimages skip-verify-locked -bool true; defaults write com.apple.frameworks.diskimages skip-verify-remote -bool true`
+- Subpixel rendering `defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO`
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar)

@@ -30,6 +30,7 @@ alias mv='mv -i'
 alias jn='jupyter notebook'
 alias vim='nvim'
 alias sed='sed -E'
+alias bi='brew install'
 
 source ~/.zshrc.profile
 

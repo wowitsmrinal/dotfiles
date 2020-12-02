@@ -67,7 +67,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 	- Python, ESLint, Prettier, C/C++, Java Extension Pack, Go
 	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
 - Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
-- Jupyter -- `jupyter` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown), `jupyter-notebook-viewer`
+- Jupyter -- `jupyter jupyter_contrib_nbextensions` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), AddBefore, Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word,  Hinterland, Notify, ScrollDown), `jupyter-notebook-viewer`
 - `node`, `go`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), `nvim`, `pynvim`
 

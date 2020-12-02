@@ -6,15 +6,13 @@
 	- Point and Click &#8594;  _Tap with one finger_
 	- More Gestures &#8594; _Swipe left/right, up with four fingers_, _Disable Launchpad_
 	- Accessibility &#8594; Pointer Controls &#8594; Trackpad Options &#8594; _Enable dragging_ with _three finger drag_
-- Dock &#8594; _Left, small, scale effect,_ uncheck _Show recent applications_. Remove unnecessary icons. Pin Desktop/Downloads in Folder mode
+- Dock & Menu Bar &#8594; _Left, small, scale effect,_ uncheck _Show recent applications_. Remove unnecessary icons. Pin Desktop/Downloads in Folder mode; Battery to Percentage
 - Keyboard &#8594; _Key Repeat Fast, Delay Until Repeat Short_, Modifier Keys &#8594; Caps Lock to Escape, Input Source &#8594; Disable menu bar
 - Apple ID &#8594; Photo, Uncheck _Mail, Reminders, Safari, Siri, News, Stocks, Home_
 - Internet Accounts &#8594; _Google Contacts, Calendars_
 - Displays &#8594; Disable menu bar
-- Date & Time &#8594; Clock &#8594; Show date
 - Language & Region &#8594; Celsius
 - Finder &#8594; show user folder, show filename extensions
-- Menu Bar &#8594; Battery to Percentage
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 - Enable Always Open: `defaults write com.google.Chrome ExternalProtocolDialogShowAlwaysOpenCheckbox -bool true`
 - Bluetooth Quality: `defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 80`
@@ -34,7 +32,7 @@
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - BetterTouchTool (Pause)
 - Spotify (Streaming Quality _Very High_, disable _Friend Activity_)
-- VLC (`alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'`)
+- VLC
 - Messenger
 - f.lux
 - Pastebot
@@ -43,7 +41,7 @@
 - Word, Excel, PowerPoint, OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
 ### Others
-- Backup & Sync, The Unarchiver, Logitech Options, External Keyboard Modifier
+- Backup & Sync, The Unarchiver, Logitech Options, Slack
 ## Development
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"

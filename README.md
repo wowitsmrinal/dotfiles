@@ -58,7 +58,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 	- Profiles/Keys &#8594; Hotkey &#8594; Opt+Space / Pin / Disable animation
 	- Profiles/Advanced &#8594; Hide from Menu Bar
 	- [Option navigation](https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x)
-- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `broot`, `ripgrep`, `pup`, `jq`
+- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `broot`, `ncdu`, `ripgrep`, `pup`, `jq`
 - `fzf`, `/usr/local/opt/fzf/install`
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK

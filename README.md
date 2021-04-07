@@ -24,7 +24,7 @@
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar)
-- AdGuard
+- uBlock Origin
 - Magnet (change shortcut to _Cmd+Opt_)
 - Path Finder (Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar)
 - Contexts (Launch at Login, Sidebar &#8594; Show sidebar on no display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)

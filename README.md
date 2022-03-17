@@ -10,9 +10,8 @@
 - Keyboard &#8594; _Key Repeat Fast, Delay Until Repeat Short_
 - Apple ID &#8594; Check Photos, Uncheck _iCloud Drive, iCloud Mail, Reminders, Safari, News, Stocks, Home, Siri_
 - Internet Accounts &#8594; _Google Contacts, Calendars_
-- Displays &#8594; Disable menu bar
 - Language & Region &#8594; Celsius
-- Finder &#8594; show user folder, show filename extensions
+- Finder &#8594; Show all filename extensions
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 - Enable Always Open: `defaults write com.google.Chrome ExternalProtocolDialogShowAlwaysOpenCheckbox -bool true`
 - Bluetooth Quality: `defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 80`
@@ -23,25 +22,23 @@
 - Subpixel rendering `defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO`
 ## Software
 ### Basics
-- Chrome (with Extensions toolbar)
-- uBlock Origin
+- Chrome (with Extensions toolbar), uBlock Origin
 - Magnet (change shortcut to _Cmd+Opt_)
-- Path Finder (Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar)
-- Contexts (Launch at Login, Sidebar &#8594; Show sidebar on no display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/1424283/158891885-883981a1-eecc-478a-8e5c-603a9e67cbd4.png">
+
+- Path Finder (Two Pane, Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar)
+- Contexts (Launch at Login, Sidebar &#8594; Show sidebar on: No display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
 - Amphetamine (Launch and Start Seesion at Login)
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
-- BetterTouchTool (Pause)
-- Spotify (Streaming Quality _Very High_, disable _Friend Activity_)
+- Spotify (Streaming Quality _Very High_)
 - VLC
-- Messenger
+- Messenger (Disable Open when you start, Disable Active Status
 - f.lux
-- Pastebot
 ### Suites
-- iMovie
-- Word, Excel, PowerPoint, OneNote
+- OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
 ### Others
-- Backup & Sync, The Unarchiver, Logitech Options, Slack
+- Google Drive, The Unarchiver, Logitech Options / Logitech G Hub, Slack
 ## Development
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"

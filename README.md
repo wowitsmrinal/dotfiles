@@ -46,11 +46,10 @@ brew tap homebrew/cask
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
 - Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html))
-- Xcode
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina/complete)
 - iTerm2
 	- Appearance &#8594; Theme &#8594; Minimal, Exclude from Dock, Window &#8594; Hide scroll bars
-	- Profiles/Text &#8594; Fira Code Retina
+	- Profiles/Text &#8594; Fira Code Retina, 13, Use Ligatures
 	- Profiles/Terminal &#8594; Unlimited Scrollback
 	- Profiles/Keys &#8594; Hotkey &#8594; Opt+Space / Pin / Disable animation
 	- Profiles/Advanced &#8594; Hide from Menu Bar

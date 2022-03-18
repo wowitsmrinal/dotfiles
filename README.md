@@ -11,6 +11,7 @@
 - Apple ID &#8594; Check Photos, Uncheck _iCloud Drive, iCloud Mail, Reminders, Safari, News, Stocks, Home, Siri_
 - Internet Accounts &#8594; _Google Contacts, Calendars_
 - Language & Region &#8594; Celsius
+- Sound &#8594; Show Sound in menu bar (always)
 - Finder &#8594; Show all filename extensions
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 - Enable Always Open: `defaults write com.google.Chrome ExternalProtocolDialogShowAlwaysOpenCheckbox -bool true`
@@ -20,15 +21,16 @@
 - Disable disk image verification
 `defaults write com.apple.frameworks.diskimages skip-verify -bool true; defaults write com.apple.frameworks.diskimages skip-verify-locked -bool true; defaults write com.apple.frameworks.diskimages skip-verify-remote -bool true`
 - Subpixel rendering `defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO`
+- WiFi DNS 94.140.14.14 / 94.140.15.15
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar), uBlock Origin
 - Magnet (change shortcut to _Cmd+Opt_)
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/1424283/158891885-883981a1-eecc-478a-8e5c-603a9e67cbd4.png">
 
-- Path Finder (Two Pane, Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar)
+- Path Finder (Two Pane, Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar, Features &#8594; Keyboard &#8594; Return/Enter key to Open Selected)
 - Contexts (Launch at Login, Sidebar &#8594; Show sidebar on: No display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
-- Amphetamine (Launch and Start Seesion at Login)
+- Amphetamine (Launch and Start Session at Login)
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
 - VLC

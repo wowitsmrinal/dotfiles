@@ -33,19 +33,16 @@
 - Amphetamine (Launch and Start Session at Login)
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
-- VLC
 - Messenger (Disable Open when you start, Disable Active Status
-- f.lux
+- VLC, f.lux, Google Drive, The Unarchiver, Logitech Options / Logitech G Hub, Slack, Vanilla
 ### Suites
 - OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
-### Others
-- Google Drive, The Unarchiver, Logitech Options / Logitech G Hub, Slack
 ## Development
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew tap homebrew/cask
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
+brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
 - Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html))
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina/complete)
@@ -61,7 +58,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK
 - VSCode + Extensions:
-	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One, Bracket Pair Colorizer 2
+	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One,
 	- Python, ESLint, Prettier, C/C++, Java Extension Pack, Go
 	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
 - Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`

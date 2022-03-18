@@ -34,6 +34,7 @@
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
 - Messenger (Disable Open when you start, Disable Active Status
+- Alfred (Disable Spotlight, Powerpack, Command Space, United States, Search through Preferences, Contacts, Folders, Documents, Remove all except PreferencePanes from search scope, Web Bookmarks &#8594; Chrome, Clipboard History &#8594; Keep Plain Text, Keep Images, Cmd+Shift+D, Appearance &#8594; Alfred Modern Dark, Options &#8594; Hide Hat, Hide Menu bar icon)
 - VLC, f.lux, Google Drive, The Unarchiver, Logitech Options / Logitech G Hub, Slack, Vanilla
 ### Suites
 - OneNote

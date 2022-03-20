@@ -7,7 +7,7 @@
 	- More Gestures &#8594; _Swipe left/right, up with four fingers_, _Disable Launchpad_
 	- Accessibility &#8594; Pointer Controls &#8594; Trackpad Options &#8594; _Enable dragging_ with _three finger drag_
 - Dock & Menu Bar &#8594; _Left, small, scale effect,_ uncheck _Show recent applications_. Remove unnecessary icons. Pin Desktop/Downloads in Folder mode; Battery to Percentage
-- Keyboard &#8594; _Key Repeat Fast, Delay Until Repeat Short_
+- Keyboard &#8594; _Key Repeat Fast, Delay Until Repeat Short_, Text &#8594; Uncheck right three settings
 - Apple ID &#8594; Check Photos, Uncheck _iCloud Drive, iCloud Mail, Reminders, Safari, News, Home, Siri_
 - Internet Accounts &#8594; _Google Contacts, Calendars_
 - Language & Region &#8594; Celsius

@@ -57,7 +57,7 @@ brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatc
 	- [Option navigation](https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x)
 	- Colors
 	- Scrollback
-- `oh-my-zsh`, `.zshrc` and `pygmalion-custom.theme` Dotfiles, `broot`, `ncdu`, `ripgrep`, `pup`, `jq`
+- `oh-my-zsh`, `.zshrc`, `pygmalion-custom.theme` Dotfiles, `broot`, `ncdu`, `ripgrep`, `pup`, `jq`, `tldr`, `fd`, `nnn`
 - `fzf`, `/usr/local/opt/fzf/install`
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK

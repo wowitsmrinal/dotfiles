@@ -2,9 +2,10 @@
 export ZSH="${HOME}/.oh-my-zsh"
 ZSH_THEME="pygmalion-custom"
 DISABLE_UPDATE_PROMPT="true"
-plugins=(git git-prompt gcloud colorize virtualenv zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git git-prompt gcloud gitfast colorize zsh-autosuggestions zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 export EDITOR='vim'
+autoload -U +X bashcompinit && bashcompinit
 autoload -Uz compinit
 for dump in ~/.zcompdump(N.mh+24); do compinit; done
 compinit -C
@@ -20,18 +21,20 @@ ZSH_HIGHLIGHT_STYLES[alias]='fg=green,bold'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Functions
-function f() { find . -iname "*$1*" ${@:2} }
 function r() { grep "$1" ${@:2} -I -R . }
 function mkcd() { mkdir -p "$@" && cd "$_"; }
 
 # Aliases
+alias f='fd'
 alias cd..='cd ..'
 alias mv='mv -i'
 alias jn='jupyter notebook'
 alias vim='nvim'
 alias sed='sed -E'
 alias xbrew='arch -x86_64 /usr/local/bin/brew'
-
+alias mkdir="mkdir -p"
+alias df="df -h"
+alias gidate='GIT_COMMITTER_DATE="$(date)" git commit --amend --no-edit --date "$(date)"'
 alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
 
 # Determine size of a file or total size of a directory
@@ -47,5 +50,8 @@ function fs() {
 		du $arg .[^.]* ./*;
 	fi;
 }
+
+# Git branch completion 
+zstyle ':completion:*:*:git:*' script ~/.oh-my-zsh/plugins/gitfast/git-completion.bash
 
 source ~/.zshrc.profile

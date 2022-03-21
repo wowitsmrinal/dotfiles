@@ -13,6 +13,8 @@
 - Language & Region &#8594; Celsius
 - Sound &#8594; Show Sound in menu bar (always)
 - Finder &#8594; Show all filename extensions
+- Battery: Battery &#8594; 10min, Show battery status, Power Adapter &#8594; 30min, Prevent Mac from sleeping,
+- Security: Require password immediately
 - Enable repeating keys: `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 - Enable Always Open: `defaults write com.google.Chrome ExternalProtocolDialogShowAlwaysOpenCheckbox -bool true`
 - Bluetooth Quality: `defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 80`

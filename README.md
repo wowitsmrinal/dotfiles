@@ -38,7 +38,7 @@
 - Messenger (Disable Open when you start, Disable Active Status
 - Alfred (Disable Spotlight, Powerpack, Command Space, United States, Search through Preferences, Contacts, Folders, Documents, Remove all except PreferencePanes from search scope, Web Bookmarks &#8594; Chrome, Clipboard History &#8594; Keep Plain Text, Keep Images, Cmd+Shift+D, Appearance &#8594; Alfred Modern Dark, Options &#8594; Hide Hat, Hide Menu bar icon)
 - Zoom (General &#8594; Copy invite link, Show meeting duration, Uncheck Add to menu bar, Video &#8594; Always display participant name, 49 participants, Stop my video when joining a meeting, Audio &#8594; Mute my mic when joining a meeting, Background & Filters &#8594; Blur)
-- VLC, Soda Player, f.lux, Google Drive, The Unarchiver, Logitech Options / Logitech G Hub, Slack, Vanilla, Elgato Cam Link 4k, Hour, Kindle, Parcel (Days till delivery), uTorrent, WhatsApp
+- VLC, Soda Player, The Unarchiver, Logitech Options / Logitech G Hub, Slack, Elgato Cam Link 4k, Hour, Kindle, Parcel (Days till delivery), uTorrent, WhatsApp
 ### Suites
 - OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR

@@ -67,3 +67,4 @@
 - Jupyter -- `jupyter jupyter_contrib_nbextensions` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word, Hinterland, Live Markdown Preview, Notify, Scratchpad, ScrollDown, Table of Contents(2), table_beautifier, Toggle all line numbers, Variable Inspector), `jupyter-notebook-viewer`
 - `node`, `go`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), vimrc
+- Copy ZSH History

@@ -40,10 +40,9 @@
 - OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
 ## Development
+- `xcode-select --install`
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-brew tap homebrew/cask
-brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package
 ```
 - Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html))
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina)
@@ -56,7 +55,7 @@ brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatc
 	- [Option navigation](https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x)
 	- Colors
 	- Scrollback
-- `oh-my-zsh`, `.zshrc`, `pygmalion-custom.theme` Dotfiles, `broot`, `ncdu`, `ripgrep`, `pup`, `jq`, `tldr`, `fd`, `nnn`
+- `oh-my-zsh`, `.zshrc`, `pygmalion-custom.theme` Dotfiles, `broot`, `ncdu`, `ripgrep`, `pup`, `jq`, `tldr`, `fd`, `nnn`, `tree`
 - `fzf`, `/usr/local/opt/fzf/install`
 - [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
 - JDK

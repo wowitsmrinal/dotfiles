@@ -28,7 +28,7 @@ function mkcd() { mkdir -p "$@" && cd "$_"; }
 alias f='fd'
 alias cd..='cd ..'
 alias mv='mv -i'
-alias jn='jupyter notebook'
+alias jn='jupyter notebook --NotebookApp.token=token123 --no-browser'
 alias vim='nvim'
 alias sed='sed -E'
 alias xbrew='arch -x86_64 /usr/local/bin/brew'

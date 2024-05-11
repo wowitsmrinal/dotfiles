@@ -24,12 +24,9 @@
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar), uBlock Origin
-- Magnet (change shortcut to _Cmd+Opt_)
-<img width="430" alt="image" src="https://user-images.githubusercontent.com/1424283/158891885-883981a1-eecc-478a-8e5c-603a9e67cbd4.png">
-
+- Raycast (+ Window Management, + Coffee)
 - Path Finder (Two Pane, Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar, Features &#8594; Keyboard &#8594; Return/Enter key to Open Selected)
 - Contexts (Launch at Login, Sidebar &#8594; Show sidebar on: No display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
-- Amphetamine (Launch and Start Session at Login)
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
 - Messenger (Disable Open when you start, Disable Active Status

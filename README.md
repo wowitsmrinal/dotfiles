@@ -29,10 +29,8 @@
 - Contexts (Launch at Login, Sidebar &#8594; Show sidebar on: No display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
-- Messenger (Disable Open when you start, Disable Active Status
-- Alfred (Disable Spotlight, Powerpack, Command Space, United States, Search through Preferences, Contacts, Folders, Documents, Remove all except PreferencePanes from search scope, Web Bookmarks &#8594; Chrome, Clipboard History &#8594; Keep Plain Text, Keep Images, Cmd+Shift+D, Appearance &#8594; Alfred Modern Dark, Options &#8594; Hide Hat, Hide Menu bar icon)
-- Zoom (General &#8594; Copy invite link, Show meeting duration, Uncheck Add to menu bar, Video &#8594; Always display participant name, 49 participants, Stop my video when joining a meeting, Audio &#8594; Mute my mic when joining a meeting, Background & Filters &#8594; Blur)
-- Soda Player, The Unarchiver, Logitech Options / Logitech G Hub, Slack, Hour, Kindle, Parcel, uTorrent, WhatsApp
+- Messenger (Disable Open when you start, Disable Active Status), WhatsApp
+- The Unarchiver, Hour, Logitech Options / Logitech G Hub
 ### Suites
 - OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR

@@ -34,7 +34,6 @@ alias sed='sed -E'
 alias xbrew='arch -x86_64 /usr/local/bin/brew'
 alias mkdir="mkdir -p"
 alias df="df -h"
-alias gidate='GIT_COMMITTER_DATE="$(date)" git commit --amend --no-edit --date "$(date)"'
 alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
 
 # Determine size of a file or total size of a directory
@@ -54,4 +53,5 @@ function fs() {
 # Git branch completion 
 zstyle ':completion:*:*:git:*' script ~/.oh-my-zsh/plugins/gitfast/git-completion.bash
 
+export PATH="/opt/homebrew/bin:$PATH"
 source ~/.zshrc.profile

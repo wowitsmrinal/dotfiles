@@ -39,7 +39,7 @@
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-- Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html))
+- Git ([local branches only](https://cmetcalfe.ca/blog/git-checkout-autocomplete-local-branches-only.html)), Git Credential Manager
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Retina)
 - iTerm2
 	- Appearance &#8594; Theme &#8594; Minimal, Exclude from Dock, Window &#8594; Hide scroll bars
@@ -50,15 +50,14 @@
 	- [Option navigation](https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x)
 	- Colors
 	- Scrollback
-- `oh-my-zsh`, `.zshrc`, `pygmalion-custom.theme` Dotfiles, `broot`, `ncdu`, `ripgrep`, `pup`, `jq`, `tldr`, `fd`, `nnn`, `tree`
-- `fzf`, `/usr/local/opt/fzf/install`
-- [GitHub SSH key](https://sourabhbajaj.com/mac-setup/Git/), Global `.gitignore`
+- `oh-my-zsh`, `.zshrc`, `pygmalion-custom.theme` Dotfiles, `ripgrep`, `jq`, `fd`
+- `fzf`, `/usr/local/opt/fzf/install` (Ctrl+R bindings)
 - JDK
 - VSCode + Extensions:
-	- Atom One Dark theme, Atom Keymap, vscode-icons, Markdown All-in-One,
-	- Python, ESLint, Prettier, C/C++, Java Extension Pack, Go
-	- GitLens, Git History, Code Runner, Docker, Remote - SSH/Containers
-- Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`
+	- Copilot, Atom One Dark theme (Mahmoud Ali), Atom Keymap, vscode-icons, Markdown All-in-One,
+	- Python, ESLint, Prettier, Go
+	- GitLens, Git History, Code Runner
+- Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`, `scikit-learn`
 - Jupyter -- `jupyter jupyter_contrib_nbextensions` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word, Hinterland, Live Markdown Preview, Notify, Scratchpad, ScrollDown, Table of Contents(2), table_beautifier, Toggle all line numbers, Variable Inspector), `jupyter-notebook-viewer`
 - `node`, `go`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), vimrc

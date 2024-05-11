@@ -57,9 +57,8 @@
 	- Copilot, Atom One Dark theme (Mahmoud Ali), Atom Keymap, vscode-icons, Markdown All-in-One,
 	- Python, ESLint, Prettier, Go
 	- GitLens, Git History, Code Runner
-- Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`, `scikit-learn`
-- Jupyter -- `jupyter jupyter_contrib_nbextensions` (+ [Font](http://www.abarbon.com/posts/firacode-font-on-jupyter), Autopep8, AutoSaveTime, Code Font Size, Codefolding, Collapsible Headings, ExecuteTime, Highlight Selected Word, Hinterland, Live Markdown Preview, Notify, Scratchpad, ScrollDown, Table of Contents(2), table_beautifier, Toggle all line numbers, Variable Inspector), `jupyter-notebook-viewer`
+- Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`, `scikit-learn`, `jupyter`, `jupyter-notebook-viewer`
 - `node`, `go`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), vimrc
-- IntelliJ
+- IntelliJ + Plugins
 - Copy ZSH History

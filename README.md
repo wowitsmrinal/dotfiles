@@ -59,6 +59,6 @@
 	- GitLens, Git History, Code Runner
 - Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`, `scikit-learn`, `jupyter`, `jupyter-notebook-viewer`
 - `node`, `go`
-- `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), vimrc
+- `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), vimrc (`:PlugInstall`)
 - IntelliJ + Plugins
 - Copy ZSH History

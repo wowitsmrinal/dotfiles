@@ -28,7 +28,7 @@ function mkcd() { mkdir -p "$@" && cd "$_"; }
 alias f='fd'
 alias cd..='cd ..'
 alias mv='mv -i'
-alias jn='jupyter notebook --NotebookApp.token=token123 --no-browser'
+alias jn="uv run --with jupyter jupyter lab"
 alias vim='nvim'
 alias sed='sed -E'
 alias xbrew='arch -x86_64 /usr/local/bin/brew'
@@ -55,3 +55,9 @@ zstyle ':completion:*:*:git:*' script ~/.oh-my-zsh/plugins/gitfast/git-completio
 
 export PATH="/opt/homebrew/bin:$PATH"
 source ~/.zshrc.profile
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+. "$HOME/.local/bin/env"

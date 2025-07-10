@@ -23,7 +23,7 @@
 `defaults write com.apple.frameworks.diskimages skip-verify -bool true; defaults write com.apple.frameworks.diskimages skip-verify-locked -bool true; defaults write com.apple.frameworks.diskimages skip-verify-remote -bool true`
 ## Software
 ### Basics
-- Chrome (with Extensions toolbar), uBlock Origin
+- Chrome. Extensions - Session Buddy, uBlock Origin Lite, alphaXiv, I don't care about cookies, WhatFont, Mailsuite, Refined Github, [Twitter Links](https://github.com/swyxio/Twitter-Links-beta), [Enhanced History](https://github.com/chrome-enhanced-history/enhanced-history), [Bypass Paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
 - Path Finder (Two Pane, Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar, Features &#8594; Keyboard &#8594; Return/Enter key to Open Selected)
 - Contexts (Launch at Login, Sidebar &#8594; Show sidebar on: No display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
 - Alfred 5

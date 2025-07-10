@@ -24,16 +24,16 @@
 ## Software
 ### Basics
 - Chrome (with Extensions toolbar), uBlock Origin
-- Raycast (+ Window Management, + Coffee)
 - Path Finder (Two Pane, Preferences &#8594; _Launch at Login_, Uncheck _Menu Bar_ icon, _Set as default_, File Size Base 2, Disable Shared, Recent Docs, Search For, Tags in sidebar, Features &#8594; Keyboard &#8594; Return/Enter key to Open Selected)
 - Contexts (Launch at Login, Sidebar &#8594; Show sidebar on: No display, Rules &#8594; Add Finder, Cmd+tab &#8594; Disable Apps without windows)
+- Alfred 5
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
 - Messenger (Disable Open when you start, Disable Active Status), WhatsApp
-- The Unarchiver, Hour, Logitech Options / Logitech G Hub
+- The Unarchiver, Hour, Logitech Options / Logitech G Hub, Cold Turkey Blocker
 ### Suites
-- OneNote
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
+- OneNote
 ## Development
 - `xcode-select --install`
 ```sh
@@ -53,12 +53,10 @@
 - `oh-my-zsh`, `.zshrc`, `pygmalion-custom.theme` Dotfiles, `ripgrep`, `jq`, `fd`
 - `fzf`, `/usr/local/opt/fzf/install` (Ctrl+R bindings)
 - JDK
-- VSCode + Extensions:
+- VSCode/Cursor + Extensions:
 	- Copilot, Atom One Dark theme (Mahmoud Ali), Atom Keymap, vscode-icons, Markdown All-in-One,
-	- Python, ESLint, Prettier, Go
+	- Python, UV, ESLint, Prettier, Go
 	- GitLens, Git History, Code Runner
-- Python -- Miniconda, `ipdb`, `virtualenv`, `numpy`, `scipy`, `pandas`, `matplotlib`, `scikit-learn`, `jupyter`, `jupyter-notebook-viewer`
-- `node`, `go`
+- `uv`, `node`
 - `neovim`, [`vim-plug`](https://github.com/junegunn/vim-plug), [Make vim more like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ), vimrc (`:PlugInstall`)
-- IntelliJ + Plugins
 - Copy ZSH History

@@ -30,10 +30,12 @@
 - Fantastical (Default duration 30mins, Advanced &#8594; Google Maps)
 - Spotify (Streaming Quality _Very High_)
 - Messenger (Disable Open when you start, Disable Active Status), WhatsApp
-- The Unarchiver, Hour, Logitech Options / Logitech G Hub, Cold Turkey Blocker
+- Magnet, The Unarchiver, Hour, Logitech Options / Logitech G Hub, Cold Turkey Blocker, Copilot
+- Figma, Disk Inventory X, OpenVPN, Parcel
 ### Suites
 - Lightroom, Photoshop, Nik Collection, Aurora HDR
 - OneNote
+- Office?
 ## Development
 - `xcode-select --install`
 ```sh
